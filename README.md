@@ -49,7 +49,7 @@ See consumers connected
 ![](https://github.com/fernando-pires47/spring-kafka/blob/main/images/consumer-new-cluster-ui.png)
 
 
-### Kafka produce and consume message[
+### Kafka produce and consume message
 
 To send message access your browser and run
 
